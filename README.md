@@ -1,4 +1,4 @@
-## *Olá!* *Eu sou o Ed!*
+## *Olá!* *Eu sou o Edson!*
 *Apaixonado por Tecnologia e estudante de Web Developer.* 
 
 <div align="center">
