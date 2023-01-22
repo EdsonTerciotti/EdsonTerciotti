@@ -3,7 +3,7 @@
 
 - 🔥 Estudante na [Rocketseat] - Explorer
 
-<img align= "right" height="500em"
+<img align= "right" height="300em"
 src="https://raw.githubusercontent.com/gist/EdsonTerciotti/8b868a5f6a1bd3f2dabf0332655f4747/raw/78541d52167b0592a1bc9918e0bf2c43cc77654b/githubcard.svg" />
 <div align="center">
   <a href="www.linkedin.com/in/edson-t-silva">
