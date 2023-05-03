@@ -1,5 +1,5 @@
 ## *Olá!* <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> *Eu sou o Edson Terciotti!*
-*Apaixonado por Tecnologia e se você me der uma chance serei seu DEV.* 
+*Apaixonado por Tecnologia.* 
 
 - 🔥 Estudante na [Rocketseat] - Explorer
 
@@ -17,7 +17,6 @@ src="https://raw.githubusercontent.com/gist/EdsonTerciotti/8b868a5f6a1bd3f2dabf0
 <div style="display: inline_block"><br>
 <img align="center"  alt="EdsonTerciotti-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 <img align="center"  alt="EdsonTerciotti-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-
 </div>
  
  ##
