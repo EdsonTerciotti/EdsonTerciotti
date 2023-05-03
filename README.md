@@ -1,4 +1,4 @@
-## *Olá!*  ![3BBS](https://user-images.githubusercontent.com/72473993/235891769-ad090cac-5e58-47d4-a0d3-7bd0c4cfd1a5.gif) *Eu sou o Edson Terciotti!*
+## *Olá!*  ![3BBS](https://user-images.githubusercontent.com/72473993/235891769-ad090cac-5e58-47d4-a0d3-7bd0c4cfd1a5.gif width="10px" height="10px") *Eu sou o Edson Terciotti!*
 *Apaixonado por Tecnologia.* 
 
 - 🔥 Estudante na [Rocketseat] - Explorer
