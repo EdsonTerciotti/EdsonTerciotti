@@ -1,4 +1,5 @@
-## *Olá!* <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> *Eu sou o Edson Terciotti!*
+## *Olá!* 
+<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> *Eu sou o Edson Terciotti!*
 *Apaixonado por Tecnologia.* 
 
 - 🔥 Estudante na [Rocketseat] - Explorer
