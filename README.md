@@ -1,4 +1,9 @@
 ## *Olá!*   *Eu sou o Edson Terciotti!*
+<p align="center">
+  <img src="https://raw.githubusercontent.com/EdsonTerciotti/(https://user-images.githubusercontent.com/72473993/236540085-2d585f06-25cd-4e8b-a9c3-5ab3f007ba99.jpg)/main/assets/dev.gif" width="300" height="300" />![ed]
+
+</p>
+
 *Apaixonado por Tecnologia.* 
 
 - 🔥 Estudante na [Rocketseat] - Explorer
