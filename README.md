@@ -1,5 +1,5 @@
 ## *Olá!*   *Eu sou o Edson Terciotti!*
-(https://user-images.githubusercontent.com/72473993/236540542-9440febb-6704-454d-9bc2-b7ddc5aa1ab0.jpg)
+
 *Apaixonado por Tecnologia.* 
 
 
