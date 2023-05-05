@@ -1,4 +1,6 @@
 ## *Olá!*   *Eu sou o Edson Terciotti!*
+<img src="https://raw.githubusercontent.com/EdsonTerciotti/hello-edson.gif" width="200" height="200" />
+
 *Apaixonado por Tecnologia.* 
 
 - 🔥 Estudante na [Rocketseat] - Explorer
