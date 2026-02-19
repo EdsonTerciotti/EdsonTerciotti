@@ -1,4 +1,4 @@
-![Olá! Eu sou o Edson Terciotti!](https://user-images.githubusercontent.com/72473993/236547286-1db22287-84a1-419f-82aa-99a6e17d1c6c.gif) 
+![Olá! Eu sou o Edson Ricarde!](https://user-images.githubusercontent.com/72473993/236547286-1db22287-84a1-419f-82aa-99a6e17d1c6c.gif) 
 
 <img align= "right" height="470em"
 src="https://raw.githubusercontent.com/gist/EdsonTerciotti/8b868a5f6a1bd3f2dabf0332655f4747/raw/78541d52167b0592a1bc9918e0bf2c43cc77654b/githubcard.svg" />
